@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://i.imgur.com/Pu83wr4.jpg); /** https://i.imgur.com/HwLfI3X.jp
 
   /*
     Main Theme Color
@@ -31,12 +31,12 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0,0.65);
 
   /*
-    Home Icon Image
+    Home Icon Image https://i.imgur.com/zuplKrK.png
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.imgur.com/zATz6Ll.png);
 
   /*
     Change your friends icon image position
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 242px;
 
   /*
     Font Size
