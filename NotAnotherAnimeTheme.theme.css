@@ -21,8 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/Pu83wr4.jpg); /** https://i.imgur.com/HwLfI3X.jp
-
+  --theme-background-image: url(https://i.imgur.com/0eHScn4.jpeg); /**https://i.imgur.com/Pu83wr4.jpg https://i.imgur.com/HwLfI3X.jpg https://i.imgur.com/50T4JRr.jpg https://i.imgur.com/PNPoOgg.jpg https://i.imgur.com/gjcZCvh.jpeg https://i.imgur.com/0eHScn4.jpeg
   /*
     Main Theme Color
   */
@@ -31,7 +30,7 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0,0.65);
+  --theme-transparency: rgba(0, 0, 0, 0.65); /*.65
 
   /*
     Home Icon Image https://i.imgur.com/zuplKrK.png
